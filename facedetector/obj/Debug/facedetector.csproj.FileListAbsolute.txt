@@ -1,0 +1,15 @@
+Q:\touren\facedetector\facedetector\bin\Debug\facedetector.exe.config
+Q:\touren\facedetector\facedetector\bin\Debug\facedetector.exe
+Q:\touren\facedetector\facedetector\bin\Debug\facedetector.pdb
+Q:\touren\facedetector\facedetector\bin\Debug\Emgu.CV.xml
+Q:\touren\facedetector\facedetector\bin\Debug\Emgu.CV.UI.xml
+Q:\touren\facedetector\facedetector\bin\Debug\Emgu.Util.xml
+Q:\touren\facedetector\facedetector\obj\Debug\facedetector.csproj.AssemblyReference.cache
+Q:\touren\facedetector\facedetector\obj\Debug\facedetector.csproj.SuggestedBindingRedirects.cache
+Q:\touren\facedetector\facedetector\obj\Debug\facedetector.Form1.resources
+Q:\touren\facedetector\facedetector\obj\Debug\facedetector.Properties.Resources.resources
+Q:\touren\facedetector\facedetector\obj\Debug\facedetector.csproj.GenerateResource.cache
+Q:\touren\facedetector\facedetector\obj\Debug\facedetector.csproj.CoreCompileInputs.cache
+Q:\touren\facedetector\facedetector\obj\Debug\facedetector.csproj.CopyComplete
+Q:\touren\facedetector\facedetector\obj\Debug\facedetector.exe
+Q:\touren\facedetector\facedetector\obj\Debug\facedetector.pdb
